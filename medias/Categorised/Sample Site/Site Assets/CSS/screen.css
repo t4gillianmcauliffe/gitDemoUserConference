@@ -2,13 +2,13 @@
   box-sizing: border-box; }
 
 @media all and (min-width: 50px) {
-  h2 {
+  h3 {
     font-size: 1.1em; }
   .intro {
     font-size: 0.2em; } }
 
 @media all and (min-width: 100px) {
-  h2 {
+  h3 {
     font-size: 1.2em; }
   .intro {
     font-size: 0.2em; } }
