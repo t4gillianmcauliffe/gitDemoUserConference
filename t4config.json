@@ -1,0 +1,45 @@
+{
+  "environments": {
+    "DemoTerminalfour": "fbadaf81-a975-4ef4-91a8-d83b073fb375"
+  },
+  "assets": {
+    "contentLayouts": [
+      {
+        "id": 115,
+        "projectPath": "content-types/General Content/text-html"
+      },
+      {
+        "id": 116,
+        "projectPath": "content-types/General Content/text-sidebar"
+      },
+      {
+        "id": 118,
+        "projectPath": "content-types/Two Column Content/text-html"
+      }
+    ],
+    "pageLayouts": [
+      {
+        "id": 4692,
+        "headerCode": "page-layouts/Alternative Homepage Layout 1/headerCode",
+        "footerCode": "page-layouts/Alternative Homepage Layout 1/footerCode"
+      }
+    ],
+    "media": [
+      {
+        "id": 4635,
+        "description": "screen.css",
+        "projectPath": "medias/Categorised/Sample Site/CSS/screen.css"
+      },
+      {
+        "id": 4767,
+        "description": "print.css",
+        "projectPath": "medias/Categorised/Sample Site/CSS/print.css"
+      },
+      {
+        "id": 4784,
+        "description": "screen.min.css",
+        "projectPath": "medias/Categorised/Sample Site/CSS/screen.min.css"
+      }
+    ]
+  }
+}
